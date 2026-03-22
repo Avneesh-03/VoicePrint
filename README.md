@@ -114,9 +114,9 @@ voice_Cloning/
 ---
 
 ## 👥 Authors
-Aviral Tiwari
-Avneesh Kumar Mishra
-Arushi Agrawal
+Aviral Tiwari,
+Avneesh Kumar Mishra,
+Arushi Agrawal,
 Yamini Pal
 
 ---
