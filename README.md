@@ -113,7 +113,7 @@ voice_Cloning/
 
 ---
 
-## 👥 Authors
+## 👥 Contributors
 Aviral Tiwari,
 Avneesh Kumar Mishra,
 Arushi Agrawal,
