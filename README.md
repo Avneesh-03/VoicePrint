@@ -11,10 +11,10 @@ A zero-shot AI voice cloning system that replicates any speaker's voice from jus
 ---
 
 ## 🧠 Models Used
-| Model       |           By         |      Role                   |
-|             |                      |                             |
-| XTTSv2      | Coqui AI — Idiap Fork| Zero-shot speech synthesis  |
-| WavLM Large | Microsoft Research   | Speaker embedding (1024-dim)|
+| Model | By | Role |
+|---|---|---|
+| XTTSv2 | Coqui AI — Idiap Fork | Zero-shot speech synthesis |
+| WavLM Large | Microsoft Research | Speaker embedding (1024-dim) |
 
 ---
 
